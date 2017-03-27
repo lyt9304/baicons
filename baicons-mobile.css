@@ -58,141 +58,144 @@
 .icon-arrow-up:before {
     content: "\EA07";
 }
-.icon-beautyarea:before {
+.icon-baixing-pc:before {
     content: "\EA08";
 }
-.icon-call:before {
+.icon-beautyarea:before {
     content: "\EA09";
 }
-.icon-certification:before {
+.icon-call:before {
     content: "\EA0A";
 }
-.icon-checkmark:before {
+.icon-certification:before {
     content: "\EA0B";
 }
-.icon-contact:before {
+.icon-checkmark:before {
     content: "\EA0C";
 }
-.icon-create:before {
+.icon-contact:before {
     content: "\EA0D";
 }
-.icon-createcv-blod:before {
+.icon-create:before {
     content: "\EA0E";
 }
-.icon-createcv:before {
+.icon-createcv-blod:before {
     content: "\EA0F";
 }
-.icon-createposition:before {
+.icon-createcv:before {
     content: "\EA10";
 }
-.icon-creditcard:before {
+.icon-createposition:before {
     content: "\EA11";
 }
-.icon-cuxiao:before {
+.icon-creditcard:before {
     content: "\EA12";
 }
-.icon-delete:before {
+.icon-cuxiao:before {
     content: "\EA13";
 }
-.icon-ding:before {
+.icon-delete:before {
     content: "\EA14";
 }
-.icon-done:before {
+.icon-ding:before {
     content: "\EA15";
 }
-.icon-downloadapp:before {
+.icon-done:before {
     content: "\EA16";
 }
-.icon-favor:before {
+.icon-downloadapp:before {
     content: "\EA17";
 }
-.icon-feedback:before {
+.icon-favor:before {
     content: "\EA18";
 }
-.icon-finish:before {
+.icon-feedback:before {
     content: "\EA19";
 }
-.icon-food:before {
+.icon-finish:before {
     content: "\EA1A";
 }
-.icon-fresh:before {
+.icon-food:before {
     content: "\EA1B";
 }
-.icon-highsalary:before {
+.icon-fresh:before {
     content: "\EA1C";
 }
-.icon-housing:before {
+.icon-highsalary:before {
     content: "\EA1D";
 }
-.icon-huoji:before {
+.icon-housing:before {
     content: "\EA1E";
 }
-.icon-info:before {
+.icon-huoji:before {
     content: "\EA1F";
 }
-.icon-insurance:before {
+.icon-info:before {
     content: "\EA20";
 }
-.icon-jinengjiaohuan:before {
+.icon-insurance:before {
     content: "\EA21";
 }
-.icon-list:before {
+.icon-jinengjiaohuan:before {
     content: "\EA22";
 }
-.icon-loan:before {
+.icon-list:before {
     content: "\EA23";
 }
-.icon-location:before {
+.icon-loan:before {
     content: "\EA24";
 }
-.icon-mail-hollow:before {
+.icon-location:before {
     content: "\EA25";
 }
-.icon-mail-solid:before {
+.icon-mail-hollow:before {
     content: "\EA26";
 }
-.icon-message-hollow:before {
+.icon-mail-solid:before {
     content: "\EA27";
 }
-.icon-message-solid:before {
+.icon-message-hollow:before {
     content: "\EA28";
 }
-.icon-mobile:before {
+.icon-message-solid:before {
     content: "\EA29";
 }
-.icon-nearby:before {
+.icon-mobile:before {
     content: "\EA2A";
 }
-.icon-phone:before {
+.icon-nearby:before {
     content: "\EA2B";
 }
-.icon-search:before {
+.icon-phone:before {
     content: "\EA2C";
 }
-.icon-service-business:before {
+.icon-search:before {
     content: "\EA2D";
 }
-.icon-share:before {
+.icon-service-business:before {
     content: "\EA2E";
 }
-.icon-sixrooms:before {
+.icon-share:before {
     content: "\EA2F";
 }
-.icon-startbusiness:before {
+.icon-sixrooms:before {
     content: "\EA30";
 }
-.icon-tips:before {
+.icon-startbusiness:before {
     content: "\EA31";
 }
-.icon-weixin-hollow:before {
+.icon-tips:before {
     content: "\EA32";
 }
-.icon-weixin-solid:before {
+.icon-weixin-hollow:before {
     content: "\EA33";
 }
-.icon-weizp:before {
+.icon-weixin-solid:before {
     content: "\EA34";
 }
-.icon-zhima:before {
+.icon-weizp:before {
     content: "\EA35";
+}
+.icon-zhima:before {
+    content: "\EA36";
 }
